@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: Моя Документация
+theme:
+  name: material
+  language: ru
+  palette:
+    scheme: slate  # Темная тема (замени на default для светлой)
+    primary: indigo
